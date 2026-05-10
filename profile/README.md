@@ -31,7 +31,7 @@ If you are tired of unreliable online tests, ad‑filled benchmark tools, or clo
 
 ## What It Looks Like
 
-<img src="https://crystalmark.info/en/wp-content/uploads/sites/3/CrystalDiskMark8NVMeMix_en.png" 
+<img src="https://www.brentozar.com/wp-content/uploads/2012/03/CrystalDiskMark-1-600x440.png" 
      alt="CrystalMark Download Benchmark Interface"
      style="border: 3px solid #333; 
             border-radius: 15px; 
